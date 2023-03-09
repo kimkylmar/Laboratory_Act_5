@@ -1,1 +1,1 @@
-# Assignment02-HTML
+Laboratory Activity No. 5
